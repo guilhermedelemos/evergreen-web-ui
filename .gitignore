@@ -43,6 +43,7 @@ Thumbs.db
 
 # Images
 *.psd
+*.eps
 
 # Compressed
 *.zip

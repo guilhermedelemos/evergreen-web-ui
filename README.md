@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+# References
+
+- <a href="https://br.freepik.com/vetores-gratis/silhueta-da-floresta-de-pinheiros-com-pequenas-e-altas-arvores-sempre-verdes-em-branco_6804352.htm#query=evergreen&position=7&from_view=search">Image by macrovector</a> on <a href="https://br.freepik.com/">Freepik</a>
