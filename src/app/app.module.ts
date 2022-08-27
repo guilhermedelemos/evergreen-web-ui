@@ -16,9 +16,9 @@ import { FooterComponent } from './components/footer/footer.component';
 import { LandingComponent } from './pages/landing/landing.component';
 
 const appRoutes: Routes = [
-  { path: 'evergreen-web-ui', component: LandingComponent },
-  { path: 'evergreen-web-ui/task', component: TasksComponent },
-  { path: 'evergreen-web-ui/about', component: AboutComponent }
+  { path: '', component: LandingComponent },
+  { path: 'task', component: TasksComponent },
+  { path: 'about', component: AboutComponent }
 ];
 
 @NgModule({
